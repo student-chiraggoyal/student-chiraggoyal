@@ -1,16 +1,45 @@
-## Hi there 👋
+## 👋 Hey there! I'm Chirag Goyal
 
-<!--
-**student-chiraggoyal/student-chiraggoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE | SRM University, Sonipat, Haryana**  
+🚀 Second-year undergraduate passionate about **Data Science & Analytics**  
+🌱 Currently learning: `Python`, `NumPy`, `Pandas`, `SQL`, `Excel`, and `Data Visualization`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 👨‍💻 Exploring the world of **Data Analytics**, **Machine Learning**, and **Web Development**
+- 🏆 Winner of multiple **Hackathons** & **Tech Competitions**
+- 🛠️ Built a **Power BI Dashboard** for second-hand car price prediction (Ranked 1st)
+- 🥇 Champion at **SRM Builds 5.0xFintech Hackathon**
+- 🌐 Core Member at **CIIE Web Development Community**, SRM University
+
+---
+
+### 💻 Tech Stack
+- **Programming:** Python, R, Java, C
+- **Libraries/Tools:** NumPy, Pandas, Matplotlib, Seaborn, ScikitLearn
+- **Web Development:** Next.js, React.js, TypeScript, Tailwind CSS, HTML, CSS, JS
+- **Databases:** MySQL, Firebase
+- **Tools & Platforms:** GitHub, Power BI, VS Code, Excel, PyChram, Intellij, Tbleau, SPSS
+
+---
+
+### 🎯 Career Goal
+To become a **Data Scientist / Data Analyst** who derives impactful insights from data and supports businesses in making profitable decisions through data-driven strategies.
+
+---
+
+### 🔍 I'm Currently:
+- Building end-to-end data analysis projects using real-world datasets  
+- Pushing all my work on GitHub to document my learning journey  
+- Exploring Next.js for full-stack development  
+- Enhancing my Python and statistical foundation for data science  
+
+---
+
+> 📫 **Let’s Connect:**  
+> I'm always open to collaboration, learning, and exciting projects.  
+> Feel free to explore my repositories and reach out if something interests you!
+
+EmailID - chirag8056.in@gmail.com
+Linkedln - www.linkedin.com/in/chirag-goyal-a2664030a
